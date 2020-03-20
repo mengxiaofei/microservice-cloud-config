@@ -36,7 +36,7 @@ eureka:
     prefer-ip-address: true 
 
 emp:
-  name: 梦溪
+  name: 六道仙人
 ---
 server:
   port: 8001
